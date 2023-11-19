@@ -14,30 +14,30 @@ I'll be documenting my progress, challenges, and insights on my **Hacking Journe
 | Challenges | Difficulty |                                                Tags                                                | Completed |
 |:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|:---------:|
 |               |            |                                                                                                    |           |
-|     Mailer      |    Easy    |                                                                            | Soon |
-|   Remove   |   Basic   |                                                                                        |        Soon   |
-|   Distribution   |   Basic   |                                                                                        |        Soon   |
-|   LinuxCMD 101   |   Medium   |                                                                                        |        Soon   |
-|   Hide Data   |   Easy   |                                                                                        |        Soon   |
-|   Guess The Password   |   Easy   |                                                                                        |        Soon   |
-|   WPA Crack   |   Medium   |                                                                                       |        Soon   |
-|   Reward   |   Easy   |                                                                                        |        Soon   |
-|   HtmlEntities   |   Easy   |                                                                                        |        Soon   |
-|   This Is Sparta   |   Easy   |                                                                                        |        Soon   |
-|   Admin has Power   |   Easy   |                                                                                        |        Soon   |
-|   CVE Number   |   Basic   |                                                                                        |        Soon   |
-|   Remote CVE   |   Easy   |                                                                                        |        Soon   |
-|   competition   |   Basic   |                                                                                       |        Soon   |
-|   Fisher   |   Basic   |                                                                                        |        Soon   |
-|   ARP Storm   |   Basic   |                                                                                        |        Soon   |
-|   Crime Scene   |   Basic   |                                                                                       |        Soon   |
-|   Greeks   |   Easy   |                                                                                        |        Soon   |
-|   JTAG Dump   |   Medium   |                                                                                        |        Soon   |
-|   Images3c    |   Easy   |                                                                                        |        Soon   |
-|   I Love Music    |   Medium   |                                                                                        |        Soon   |
-|   Back to Basic    |   Easy   |                                                                                        |        Soon   |
-|   Contribute    |   Basic   |                                                                                       |        Soon   ||   Cheers    |   Easy   |                                                                                        |       Soon   ||   GhaZe    |   Medium   |                                                                                        |       Soon   ||   The Restricted Sessions     |   Medium   |                                                                                      |        Soon   |
-|   Capture     |   Easy   |                                                                                        |        Soon   |
+|     Mailer      |    Easy    |                                                                            | Completed |
+|   Remove   |   Basic   |                                                                                        |        Completed   |
+|   Distribution   |   Basic   |                                                                                        |        Completed   |
+|   LinuxCMD 101   |   Medium   |                                                                                        |        Completed   |
+|   Hide Data   |   Easy   |                                                                                        |        Completed   |
+|   Guess The Password   |   Easy   |                                                                                        |        Completed   |
+|   WPA Crack   |   Medium   |                                                                                       |        Completed   |
+|   Reward   |   Easy   |                                                                                        |        Completed   |
+|   HtmlEntities   |   Easy   |                                                                                        |        Completed   |
+|   This Is Sparta   |   Easy   |                                                                                        |        Completed   |
+|   Admin has Power   |   Easy   |                                                                                        |        Completed   |
+|   CVE Number   |   Basic   |                                                                                        |        Completed   |
+|   Remote CVE   |   Easy   |                                                                                        |        Completed   |
+|   competition   |   Basic   |                                                                                       |        Completed   |
+|   Fisher   |   Basic   |                                                                                        |        Completed   |
+|   ARP Storm   |   Basic   |                                                                                        |        Completed   |
+|   Crime Scene   |   Basic   |                                                                                       |        Completed   |
+|   Greeks   |   Easy   |                                                                                        |        Completed   |
+|   JTAG Dump   |   Medium   |                                                                                        |        Completed   |
+|   Images3c    |   Easy   |                                                                                        |        Completed   |
+|   I Love Music    |   Medium   |                                                                                        |        Completed   |
+|   Back to Basic    |   Easy   |                                                                                        |        Completed   |
+|   Contribute    |   Basic   |                                                                                       |        Completed   ||   Cheers    |   Easy   |                                                                                        |       Completed   ||   GhaZe    |   Medium   |                                                                                        |       Completed   ||   The Restricted Sessions     |   Medium   |                                                                                      |        Completed   |
+|   Capture     |   Easy   |                                                                                        |        Completed   |
 
 
 
