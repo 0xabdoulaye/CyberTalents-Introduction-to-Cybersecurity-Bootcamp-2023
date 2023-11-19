@@ -20,34 +20,24 @@ I'll be documenting my progress, challenges, and insights on my **Hacking Journe
 |   LinuxCMD 101   |   Medium   |                                                                                        |        Soon   |
 |   Hide Data   |   Easy   |                                                                                        |        Soon   |
 |   Guess The Password   |   Easy   |                                                                                        |        Soon   |
-
-|   WPA Crack   |   Medium   |                                                                                        |        Soon   |
-
+|   WPA Crack   |   Medium   |                                                                                       |        Soon   |
 |   Reward   |   Easy   |                                                                                        |        Soon   |
-
 |   HtmlEntities   |   Easy   |                                                                                        |        Soon   |
 |   This Is Sparta   |   Easy   |                                                                                        |        Soon   |
 |   Admin has Power   |   Easy   |                                                                                        |        Soon   |
 |   CVE Number   |   Basic   |                                                                                        |        Soon   |
 |   Remote CVE   |   Easy   |                                                                                        |        Soon   |
-
-|   competition   |   Basic   |                                                                                        |        Soon   |
+|   competition   |   Basic   |                                                                                       |        Soon   |
 |   Fisher   |   Basic   |                                                                                        |        Soon   |
 |   ARP Storm   |   Basic   |                                                                                        |        Soon   |
-
-|   Crime Scene   |   Basic   |                                                                                        |        Soon   |
+|   Crime Scene   |   Basic   |                                                                                       |        Soon   |
 |   Greeks   |   Easy   |                                                                                        |        Soon   |
 |   JTAG Dump   |   Medium   |                                                                                        |        Soon   |
 |   Images3c    |   Easy   |                                                                                        |        Soon   |
 |   I Love Music    |   Medium   |                                                                                        |        Soon   |
 |   Back to Basic    |   Easy   |                                                                                        |        Soon   |
-|   Contribute    |   Basic   |                                                                                        |        Soon   |
-|   Cheers    |   Easy   |                                                                                        |        Soon   |
-|   GhaZe    |   Medium   |                                                                                        |        Soon   |
-|   The Restricted Sessions     |   Medium   |                                                                                        |        Soon   |
+|   Contribute    |   Basic   |                                                                                       |        Soon   ||   Cheers    |   Easy   |                                                                                        |       Soon   ||   GhaZe    |   Medium   |                                                                                        |       Soon   ||   The Restricted Sessions     |   Medium   |                                                                                      |        Soon   |
 |   Capture     |   Easy   |                                                                                        |        Soon   |
-
-
 
 
 
